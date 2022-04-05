@@ -54,7 +54,7 @@ GIT COMMANDS
 26.git remote add origin https://.... : This commands make a bookmark which signifies that this particular remote refers to this URL. 
                                         This remote will be used to pull any content from the directory and push our local content to the global server.
 
-27.git remote add <address> : To add new remotes to our local repository for a particular git address. 
+27.git remote add <address>: To add new remotes to our local repository for a particular git address. 
 
 28.git remove rm : To remove a remote from our local repository. 
 
