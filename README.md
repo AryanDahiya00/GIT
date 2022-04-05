@@ -1,7 +1,7 @@
 # VITMAS_TASK0_21BCI0002
 GIT COMMANDS
 
-1.git help:  Take help from github help section for different commands and other errors \n
+1.git help:  Take help from github help section for different commands and other errors 
 2.git config: To set the basic configurations on github like your name and email. 
 3.git config –-global user.name “username” : Sets configuration values for your user name on git.
 4.git config –-global user.email name@gmail.com :  Sets configuration values for your user email on git. 
