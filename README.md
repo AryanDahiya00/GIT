@@ -94,3 +94,4 @@ GIT COMMANDS
                 Run all origin master commits.
                 Run all commits in the temporary area on top of our master one at a time, so it avoids merge commits.
   
+Video demonstration : https://drive.google.com/drive/folders/1H-e-BxtHejbAq2eOd_Np8D5Z1-Pepz62?usp=sharing
