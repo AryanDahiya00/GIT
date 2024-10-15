@@ -80,5 +80,3 @@
 ## Advanced Commands
 45. `git rebase`: Move all changes to master which are not in origin/master to a temporary area, run all origin master commits, then run all commits in the temporary area on top of our master one at a time
 
-## Additional Resources
-Video demonstration: [Git Commands Tutorial](https://drive.google.com/drive/folders/1H-e-BxtHejbAq2eOd_Np8D1Z1-Pepz62?usp=sharing)
